@@ -1,0 +1,81 @@
+.red {
+    background-color: red;
+}
+
+.red-text {
+    color: red;
+}
+
+.table {
+    border: 1px solid #C5CBD0 !important;
+    border-collapse: collapse;
+    font-size: 12px;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.background {
+    background-color: #FBFBFB;
+}
+
+.card {
+    background-color: white;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+hr.selected {
+    border-top: 3px solid #FBD415;
+}
+
+hr.unselected {
+    border-top: 3px solid #828282; 
+}
+
+.btn-primary {
+    background-color: #7A0200 !important;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.input {
+    width: 80%;
+    border-radius: 4px 0px 0px 4px;
+    height: 36px;
+}
+
+.inputButton {
+    border-radius: 0px 4px 4px 0px;
+    border: black;
+    margin-top: -5px;
+    margin-left: -2px;
+}
+
+.filterField {
+    width: 114px;
+    height: 32px;
+}
+
+.tag {
+    padding: 2px;
+    text-align: center;
+    width: 83px;
+    height: 22px;
+    background: #FFD4AC;
+    border-radius: 8px;
+    font-size: 12px;
+    line-height: 18px;
+    font-feature-settings: 'liga' off;
+    color: #CC6B11;
+}
